@@ -1,7 +1,7 @@
 package oop1;
 
 public class Deer {
-    public void a(){
+    public void ab(){
 
     }
     //constructor only be the same name of the class name.
